@@ -45,13 +45,13 @@
     border: 3px solid white;
 }
 
-/* .input-cal button{
+.input-cal button{
     padding: 25px;
     border-radius: 10px;
     background-color:rgb(138, 174, 241,0.4) ;
     color: aliceblue;
     border: 3px solid white;
-} */
+}
 
 .select-age{
     
@@ -93,4 +93,7 @@
 }
 
 
+@media only screen and (max-width:900px){
+    
 
+}
