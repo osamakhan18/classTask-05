@@ -1,0 +1,59 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.age-cal{
+    width: 500px;
+    height: auto ;
+    border: 2px solid red;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.age-cal h2{
+  
+    height: auto;
+    border: 2px solid red;
+    margin-bottom: 30px;
+    
+}
+
+#input-dob{
+    padding: 20px;
+    border-radius: 10px;
+    font-size:x-large;
+}
+
+.input-cal button{
+    padding: 25px;
+    border-radius: 10px;
+}
+
+.select-age{
+    border: 2px solid rgb(27, 26, 26);
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-evenly;
+    border-bottom: 20px;
+    
+}
+
+.select-age-innerbox{
+
+    width: 150px;
+    height: 200px;
+    border: 2px solid red;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-radius: 30px;
+    
+
+}
