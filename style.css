@@ -16,7 +16,7 @@
     align-items: center;
     flex-direction: column;
     gap: 10px;
-    background-color:rgb(71, 25, 3) ;
+    background-color:rgb(4, 25, 63) ;
     margin-top: 30px;
     box-shadow: 3px 3px 4px white;
 }
@@ -27,38 +27,38 @@
     
     margin-bottom: 30px;
     color: white;
-    background-color:rgb(71, 25, 3) ;
+    background-color:rgb(4, 25, 63) ;
 }
 
 
 .input-cal{
-    background-color:   rgb(71, 25, 3);
+    background-color:rgb(4, 25, 63) ;
 }
 #input-dob{
     padding: 20px;
     border-radius: 10px;
     font-size:x-large;
     color: white;
-    background-color: rgb(71, 25, 3);
+    background-color:rgb(4, 25, 63) ;
     border: 3px solid white;
 }
 
 .input-cal button{
     padding: 25px;
     border-radius: 10px;
-    background-color: rgb(71, 25, 3);
+    background-color:rgb(4, 25, 63) ;
     color: aliceblue;
     border: 3px solid white;
 }
 
 .select-age{
-    border: 2px solid rgb(27, 26, 26);
+    
     width: 100%;
     height: auto;
     display: flex;
     justify-content: space-evenly;
     border-bottom: 20px;
-    background-color: rgb(71, 25, 3);
+    background-color:rgb(4, 25, 63) ;
     
 }
 
@@ -66,7 +66,7 @@
 
     width: 150px;
     height: 150px;
-    /* border: 2px solid red; */
+   
     margin-bottom: 20px;
     margin-top: 20px;
     border-radius: 30px;
@@ -74,16 +74,16 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: rgb(71, 25, 3);
-    border: 2px solid black;
-    
+    background-color:rgb(4, 25, 63) ;
+    border: 3px solid black;
+  
 
 }
 
 .select-age-innerbox p{
     font-size: x-large;
     font-weight: 800;
-    background-color: rgb(71, 25, 3);
+    background-color:rgb(4, 25, 63) ;
     color: aliceblue;
     font-weight: 800;
    
