@@ -1,0 +1,1 @@
+var dob = document.getElementById('input-dob')
